@@ -1,4 +1,4 @@
-/* eslint-disable  */ 
+/* eslint-disable max-classes-per-file */ 
 import './style.css';
 
 const listData = [
